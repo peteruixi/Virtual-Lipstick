@@ -1,6 +1,6 @@
 # Virtual-Lipstick
 
-  This repo consists a python code that utilize opencv and the dlib library to the following: 
+  This repo consists a python code that utilizes opencv and the dlib library to the following: 
     
     1. Recognize the human faces from a image input from command line 
     
